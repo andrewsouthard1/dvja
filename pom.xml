@@ -10,7 +10,7 @@
 
     <properties>
         <struts2.version>2.3.30</struts2.version>
-        <log4j2.version>2.3</log4j2.version>
+        <log4j2.version>2.3.1</log4j2.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.version>3.0.5.RELEASE</spring.version>
     </properties>
@@ -51,7 +51,7 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
-            <version>1.5.2</version>
+            <version>1.7.34</version>
         </dependency>
 
         <!-- AOP dependency -->
